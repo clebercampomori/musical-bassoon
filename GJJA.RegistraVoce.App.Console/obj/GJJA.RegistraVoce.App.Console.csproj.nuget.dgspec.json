@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.App.Console/GJJA.RegistraVoce.App.Console.csproj": {}
+  },
+  "projects": {
+    "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.App.Console/GJJA.RegistraVoce.App.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.App.Console/GJJA.RegistraVoce.App.Console.csproj",
+        "projectName": "GJJA.RegistraVoce.App.Console",
+        "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.App.Console/GJJA.RegistraVoce.App.Console.csproj",
+        "packagesPath": "/home/season/.nuget/packages/",
+        "outputPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.App.Console/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/season/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj": {
+                "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj"
+              },
+              "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj": {
+                "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj",
+        "projectName": "GJJA.RegistraVoce.DataAccess",
+        "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj",
+        "packagesPath": "/home/season/.nuget/packages/",
+        "outputPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/season/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj": {
+                "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
+        "projectName": "GJJA.RegistraVoce.Domain",
+        "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
+        "packagesPath": "/home/season/.nuget/packages/",
+        "outputPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/season/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
