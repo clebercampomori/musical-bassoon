@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
+      "projectUniqueName": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
       "projectName": "GJJA.RegistraVoce.Domain",
-      "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
+      "projectPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
       "packagesPath": "/home/season/.nuget/packages/",
-      "outputPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/obj/",
+      "outputPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

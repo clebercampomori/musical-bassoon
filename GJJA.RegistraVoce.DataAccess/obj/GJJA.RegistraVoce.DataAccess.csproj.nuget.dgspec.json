@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj": {}
+    "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj": {}
   },
   "projects": {
-    "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj": {
+    "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj",
+        "projectUniqueName": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj",
         "projectName": "GJJA.RegistraVoce.DataAccess",
-        "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj",
+        "projectPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj",
         "packagesPath": "/home/season/.nuget/packages/",
-        "outputPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/obj/",
+        "outputPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.DataAccess/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj": {
-                "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj"
+              "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj": {
+                "projectPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj": {
+    "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
+        "projectUniqueName": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
         "projectName": "GJJA.RegistraVoce.Domain",
-        "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
+        "projectPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj",
         "packagesPath": "/home/season/.nuget/packages/",
-        "outputPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/obj/",
+        "outputPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

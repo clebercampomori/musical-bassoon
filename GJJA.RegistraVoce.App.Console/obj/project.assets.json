@@ -4790,11 +4790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.App.Console/GJJA.RegistraVoce.App.Console.csproj",
+      "projectUniqueName": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.App.Console/GJJA.RegistraVoce.App.Console.csproj",
       "projectName": "GJJA.RegistraVoce.App.Console",
-      "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.App.Console/GJJA.RegistraVoce.App.Console.csproj",
+      "projectPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.App.Console/GJJA.RegistraVoce.App.Console.csproj",
       "packagesPath": "/home/season/.nuget/packages/",
-      "outputPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.App.Console/obj/",
+      "outputPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.App.Console/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4811,11 +4811,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj": {
-              "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj"
+            "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj": {
+              "projectPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.DataAccess/GJJA.RegistraVoce.DataAccess.csproj"
             },
-            "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj": {
-              "projectPath": "/home/season/Documentos/projects/GJJA.RegistraVoce/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj"
+            "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj": {
+              "projectPath": "/home/season/Documentos/projects/musical-bassoon/GJJA.RegistraVoce.Domain/GJJA.RegistraVoce.Domain.csproj"
             }
           }
         }
